@@ -39,7 +39,7 @@ Check out my repositories to see more!
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/atharvashakargayen)  
-[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=for-the-badge&logo=gmail)](mailto:atharvashakargayen@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:atharvashakargayen@gmail.com) 
 
 ---
 
