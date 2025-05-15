@@ -28,9 +28,9 @@ Welcome to my GitHub! I'm a passionate Data Scientist and ML enthusiast, always 
 
 Here are a few highlights from my GitHub repos:
 
-- [Project 1 Name](link) - Brief description.
-- [Project 2 Name](link) - Brief description.
-- [Project 3 Name](link) - Brief description.
+- [Intelli-Mail](https://github.com/Atharva-Shakargayen/Intellimail---Automated-Email-summarizer-and-reply-generator) - Automated-Email-summarizer-and-reply-generator.
+- [Potato Leaf Disease Detector](https://github.com/Atharva-Shakargayen/Potato-Leaf-Disease-Detection-using-CNN-) - An Image Classification project to detect                                       wheter a potato leaf has early blight or late blight disease, or its a healthy leaf. 
+- [Heart Disease Detection](https://github.com/Atharva-Shakargayen/Heart-Disease-Detection-using-Logistic-Regression---Machine-Learning-Project) - ML project to                                detect whether a person has heart disease or not using Logistic Regression with Streamlit for front end serving
 
 Check out my repositories to see more!
 
@@ -38,7 +38,7 @@ Check out my repositories to see more!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/atharvashakargayen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AtharvaShakargayen-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/atharvashakargayen)  
 [![Email](https://img.shields.io/badge/Email-atharvashakargayen@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:atharvashakargayen@gmail.com) 
 
 ---
