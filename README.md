@@ -36,6 +36,14 @@ Check out my repositories to see more!
 
 ---
 
+<h3 align="left">📈 Stats & Contributions</h3>
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atharva-Shakargayen&show_icons=true&locale=en&layout=compact" alt="niharika009" />
+</p>
+
+
+
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AtharvaShakargayen-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/atharvashakargayen)  
