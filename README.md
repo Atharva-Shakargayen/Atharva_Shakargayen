@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Data Scientist and ML enthusiast, always 
 
 ## About Me
 
-- 🔭 I’m currently working on projects related to Machine Learning, Deep Learning, NLP and Data Analytics.
+- 🔭 I’m currently working on projects related to Data Analytics, Machine Learning, Deep Learning, and NLP.
 - 🌱 I’m continuously learning and exploring new technologies and frameworks.
 - 💬 Ask me about Java, Python, Machine Learning, Deep Learning, and more.
 - 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/atharvashakargayen/)]
